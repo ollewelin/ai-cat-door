@@ -1,7 +1,8 @@
 # ai-cat-door
 Deep learning cat door auto lock cat with prey
 
-## Installation guide for Windows for re-training (fine tune) you own cat door model.
+## Installation guide for Windows for re-training (fine tune) you own cat door model. 
+NOTE: If you running Linux (Ubuntu) skip WSL jump directly to Install Ananconda
 ### Install WSL on you windows machine
 1. Open PowerShell as Administrator:
 
@@ -43,5 +44,6 @@ Run the installer:
 ```
 bash Anaconda3-2023.07-Linux-x86_64.sh
 ```
+
 
 

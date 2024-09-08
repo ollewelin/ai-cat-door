@@ -60,6 +60,11 @@ Activate the environment:
 conda activate pytorch_env
 ```
 ### 3.2 Install PyTorch:
+#### Install PyTorch and its dependencies:
+```
+conda install pytorch torchvision torchaudio -c pytorch
+```
+
 
 
 

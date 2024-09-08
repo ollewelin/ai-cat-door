@@ -33,13 +33,13 @@ PS C:\Users\olle_>
 ```
 
 ## Step 2. Install Anaconda
-### Download Anaconda
+### 2.1 Download Anaconda
 Open your Linux terminal and download the Anaconda installer with:
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2023.07-Linux-x86_64.sh
 ```
 
-### Install Anaconda:
+### 2.2 Install Anaconda:
 Run the installer:
 ```
 bash Anaconda3-2023.07-Linux-x86_64.sh

@@ -44,6 +44,10 @@ Run the installer:
 ```
 bash Anaconda3-2023.07-Linux-x86_64.sh
 ```
+Follow the prompts to complete the installation. You may need to restart your terminal or source your .bashrc file:
+```
+source ~/.bashrc
+```
 
 
 

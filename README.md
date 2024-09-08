@@ -13,6 +13,10 @@ Deep learning cat door auto lock cat with prey
 wsl --install
 ```
 This command will enable the necessary features and install the default Linux distribution (usually Ubuntu). Your PC will need to restart.
+
+3. Set Up Your Linux Distribution:
+After restarting, open the Linux distribution from the Start menu and follow the on-screen instructions to set up your Linux user account.
+
 Example
 ```
 PS C:\Users\olle_> wsl --install
@@ -27,7 +31,17 @@ The requested operation is successful. Changes will not be effective until the s
 PS C:\Users\olle_>
 ```
 
-3. Set Up Your Linux Distribution:
-After restarting, open the Linux distribution from the Start menu and follow the on-screen instructions to set up your Linux user account.
+### Install Anaconda
+#### Download Anaconda
+Open your Linux terminal and download the Anaconda installer with:
+```
+wget https://repo.anaconda.com/archive/Anaconda3-2023.07-Linux-x86_64.sh
+```
 
-### Install
+#### Install Anaconda:
+Run the installer:
+```
+bash Anaconda3-2023.07-Linux-x86_64.sh
+```
+
+

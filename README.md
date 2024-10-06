@@ -64,7 +64,8 @@ conda activate pytorch_env
 ```
 conda install pytorch torchvision torchaudio -c pytorch
 ```
-
+TODO... I am not finnsih with thsi new repo look at old repo how not orginized at here
+https://github.com/ollewelin/PyTorch-Training-Resnet50
 
 
 
